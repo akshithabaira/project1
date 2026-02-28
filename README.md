@@ -1,4 +1,4 @@
-in this project we designed and implemented an “AI
+In this project we designed and implemented an “AI
 Research Paper Summarizer and Reviewer”—an automated
 pipeline that:
 • retrieves research papers from arXiv using keywords, titles,
